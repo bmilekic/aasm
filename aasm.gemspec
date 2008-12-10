@@ -13,7 +13,7 @@ EOF
   s.extra_rdoc_files = ['README.rdoc', 'MIT-LICENSE', 'TODO', 'CHANGELOG']
   s.rdoc_options = ['--line-numbers', '--inline-source', '--main', 'README.rdoc', '--title', 'AASM']
 
-  s.author = 'Scott Barron'
-  s.email = 'scott@elitists.net'
-  s.homepage = 'http://github.com/rubyist/aasm'
+  s.author = 'Scott Barron (fork by Bloom Digital Platforms)'
+  s.email = 'github@bloomdigital.com'
+  s.homepage = 'http://github.com/bloom/aasm'
 end
