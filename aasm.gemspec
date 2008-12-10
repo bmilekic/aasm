@@ -1,7 +1,7 @@
 PKG_FILES = ["CHANGELOG", "MIT-LICENSE", "Rakefile", "README.rdoc", "TODO", "lib/aasm.rb", "lib/event.rb", "lib/persistence/active_record_persistence.rb", "lib/persistence.rb", "lib/state.rb", "lib/state_machine.rb", "lib/state_transition.rb", "lib/version.rb", "doc/jamis.rb"]
 
 Gem::Specification.new do |s|
-  s.name = 'aasm'
+  s.name = 'bloom-aasm'
   s.version = "2.0.3"
   s.summary = 'State machine mixin for Ruby objects'
   s.description = <<-EOF
